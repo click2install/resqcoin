@@ -1,0 +1,2 @@
+# resqcoin
+RESQ masternode resources
