@@ -414,10 +414,10 @@ echo
 echo -e "${GREEN}"
 echo -e "============================================================================================================="
 echo
-echo -e "                        88\"\"Yb 888888 .dP\"Y8  dP\"Yb"
-echo -e "                        88__dP 88__   \`Ybo.\" dP   Yb"
-echo -e "                        88\"Yb  88\"\"   o.\`Y8b Yb b dP"  
-echo -e "                        88  Yb 888888 8bodP' \`\"YoYo" 
+echo -e "                                     88\"\"Yb 888888 .dP\"Y8  dP\"Yb"
+echo -e "                                     88__dP 88__   \`Ybo.\" dP   Yb"
+echo -e "                                     88\"Yb  88\"\"   o.\`Y8b Yb b dP"  
+echo -e "                                     88  Yb 888888 8bodP' \`\"YoYo" 
 echo
 echo                          
 echo -e "${NC}"
